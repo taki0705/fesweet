@@ -1,0 +1,62 @@
+[
+{
+    "id":1,
+    "name":"Bánh gấu",
+    "price": 30000,
+    "image":"img/cake-p1-2.png",
+    "image2":"img/cake-p1.png"
+
+},
+{
+    "id":2,
+    "name":"Bánh bơ kem",
+    "price": 25000,
+    "image":"img/cake-p1-3.png",
+    "image2":"img/cake-p1-5.png"
+},
+{
+    "id":3,
+    "name":"Bánh mật ong",
+    "price": 15000,
+    "image":"img/cake-p1-4.png",
+    "image2":"img/cake-p1-6.png"
+},
+{
+    "id":4,
+    "name":"Bánh bơ vừng",
+    "price": 20000,
+    "image":"img/cake-p1-7.png",
+    "image2":"img/cake-p1-8.png"
+},
+{
+    "id":5,
+    "name":"Bánh kem gato",
+    "price": 30000,
+    "image":"img/gato-p3-2.png",
+    "image2":"img/gato-p3-1.png"
+},
+{
+    "id":6,
+    "name":"Bánh Couple",
+    "price": 30000,
+    "image":"img/gato-p2-1.png",
+    "image2":"img/gato-p2-2.png"
+},
+{
+    "id":7,
+    "name":"Bánh MarryMe",
+    "price": 20000,
+    "image":"img/gato-p5-1.png",
+    "image2":"img/gato-p6-1.png"
+},
+{
+    "id":8,
+    "name":"Bánh mỳ ngu",
+    "price": 25000,
+    "image":"img/bmy xx.jpg",
+    "image2":"img/bmy xx2.jpg"
+}
+
+
+
+]
